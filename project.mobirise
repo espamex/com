@@ -39,7 +39,8 @@
     "versionPublish": "4.10.3",
     "favicon": "@PROJECT_PATH@/assets/images/logo-espamex-original-128x64.png",
     "noImageResize": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "modified": "2019-06-28T21:10:38.615Z"
   },
   "pages": {
     "live.corp.html": {
